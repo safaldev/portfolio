@@ -21,7 +21,7 @@ function Timeline() {
 
         <Particles quantity={500} size={0.6} />
 
-        <h2 className="text-3xl font-bold pl-6 lg:p-0 lg:text-center">
+        <h2 className="text-3xl pt-8 font-bold pl-6 lg:p-0 lg:text-center">
           My Timeline
         </h2>
         <VerticalTimeline lineColor="#2196f3" animate={true}>

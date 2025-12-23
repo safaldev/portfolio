@@ -14,7 +14,7 @@ function Hero() {
     // <div className="relative h-dvh w-full overflow-hidden">
     //   <GridPattern />
     // </div>
-    <div className="relative h-dvh w-full overflow-hidden">
+    <div className="relative h-screen w-full overflow-hidden">
       <DotPattern />
       <InteractiveGridPattern />
 
