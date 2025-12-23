@@ -10,7 +10,7 @@ import Dev from "./pages/Dev";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/portfolio",
     element: <App />,
     children: [
       {
