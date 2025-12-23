@@ -1,0 +1,12 @@
+// Source - https://stackoverflow.com/a
+// Posted by mr.kashyap sandesh, modified by community. See post 'Timeline' for change history
+// Retrieved 2025-12-22, License - CC BY-SA 4.0
+
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
